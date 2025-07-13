@@ -23,4 +23,4 @@ A Food Based Website that shows various food dises, catalogs, reviews, and testi
 
 1. Clone the repository  
    ```bash
-    https://akashb1999.github.io/Foodies-by-Akash./
+    https://akashb1999.github.io/Restaurant/
